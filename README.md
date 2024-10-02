@@ -1,2 +1,3 @@
 # LITA_Class_Documantation
-This is where i documented my first project while learning Data Analysis with the Incubator Hub.
+
+### Project Title: E commerce Sales Analysis
