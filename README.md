@@ -1,6 +1,24 @@
-# LITA_Class_Documantation
+### LITA_Class_Documantation
 
 ### Project Title: E commerce Sales Analysis
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
+
+
 
 ### Project Overview
 ---
@@ -13,6 +31,7 @@ First thing you need to know is you need God and you have God. There’s an acce
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
+
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization
@@ -41,3 +60,16 @@ This is where some basic lines of codes or queries or even some of the DAX expre
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+
+🥇
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|--------|----------|---------|
+|Table 1|Table 2|Table 3|
+
+
+
