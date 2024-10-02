@@ -7,3 +7,11 @@ It feels so good handing over to you because I can tell you are already being he
 
 ### Data Sources
 First thing you need to know is you need God and you have God. There’s an access you have with God already, it is now left to you to make good use of the access. You can’t do this with whatever advice I give but I can assure you that you will excel with God’s wisdom guiding you. 
+
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Visualization
+- SQL - Structed Query Language for Querying of Data 
+- GitHub for Portfolio Building
